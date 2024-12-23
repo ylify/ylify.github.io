@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Nov 2021: PostDoc researcher
+* Nov 2021 - now: PostDoc researcher
   * Ocean University of China
   * Duties includes: Phylogenomics and chemosymbiosis
   * Supervisor: Dr. Jin Sun
@@ -25,8 +25,8 @@ Work experience
 Skills
 ======
 * Phylogenomics and synteny
-  * pipeline in Python (VEHoP): one-step solution for phylogenetic relationships from reads, assemblies and proteomes.
-  * Ancitent linkage groups from multi-genomes
+  * pipeline in Python (VEHoP): one-step solution for phylogenetic relationships accommodating diverse inputs, including reads, assemblies, and proteomes.
+  * Ancient linkage groups from multi-genomes: such Mollusca (Phylum)
 * Genome assembly, gene-model prediction, comparative genomics
 * Spatial and single-cell transcriptomics
  
