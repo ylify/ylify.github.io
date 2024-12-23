@@ -50,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Not yet applicable
+
