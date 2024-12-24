@@ -1,5 +1,5 @@
 ---
-title: "preprint  VEHoP: A Versatile, Easy-to-use, and Homology-based Phylogenomic pipeline accommodating diverse sequences"
+title: "8th (preprint)  VEHoP: A Versatile, Easy-to-use, and Homology-based Phylogenomic pipeline accommodating diverse sequences"
 collection: publications
 category: manuscripts
 date: 2024-07-24
