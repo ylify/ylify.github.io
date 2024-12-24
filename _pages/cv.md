@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Life science, Hong Kong University of Science and Technology, Sep-2021
-* B.S. in Marine science, Sun Yat-sen Univeristy, Jun-2017
+* Ph.D in Life science, Hong Kong University of Science and Technology, Sep 2021
+* B.S. in Marine science, Sun Yat-sen Univeristy, Jun 2017
 
 Work experience
 ======
-* Nov 2021 - now: PostDoc researcher
+* Nov 2021 - present: PostDoc researcher
   * Ocean University of China
   * Duties includes: Phylogenomics and chemosymbiosis
   * Supervisor: Dr. Jin Sun
