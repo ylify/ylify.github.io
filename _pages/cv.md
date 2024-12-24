@@ -25,7 +25,7 @@ Work experience
 Skills
 ======
 * Phylogenomics and synteny
-  * pipeline in Python (VEHoP): one-step solution for phylogenetic relationships accommodating diverse inputs, including reads, assemblies, and proteomes.
+  * Phylogenomic pipeline in Python (VEHoP): one-step solution for phylogenetic relationships accommodating diverse inputs, including reads, assemblies, and proteomes.
   * Ancient linkage groups from multi-genomes: such Mollusca (Phylum)
 * Genome assembly, gene-model prediction, comparative genomics
 * Spatial and single-cell transcriptomics
