@@ -1,15 +1,6 @@
 ---
 title: "Reduced chemosymbiont genome in the methane seep thyasirid and the cooperated metabolisms in the holobiont under anaerobic sediment"
-excerpt: "We report the first circular thyasirid symbiont genome, named Candidatus Ruthturnera 
-sp. Tsphm01, with a size of 1.53 Mb, 1521 coding genes and 100% completeness. 
-Compared to its free-living relatives, Ca. Ruthturnera sp. Tsphm01 genome is reduced, 
-lacking components for chemotaxis, citric acid cycle and de novo biosynthesis of small 
-molecules (e.g. amino acids and cofactors), indicating it is likely an obligate intracellular symbiont. Nevertheless, the symbiont retains complete genomic components 
-of sulphur oxidation and assimilation of inorganic carbon, and these systems were 
-highly and actively expressed. Moreover, the symbiont appears well-adapted to anoxic environment, including capable of anaerobic respiration (i.e. reductions of DMSO 
-and nitrate) and possession of a low oxygen-adapted type of cytochrome c oxidase. 
-Analysis of the host transcriptome revealed its metabolic complementarity to the incomplete metabolic pathways of the symbiont and the acquisition of nutrients from 
-the symbiont via phagocytosis and exosome. <br/><img src='/images/MER_summary.jpg'>"
+excerpt: "We report the first circular thyasirid symbiont genome, named Candidatus Ruthturnera sp. Tsphm01, with a size of 1.53 Mb, 1521 coding genes and 100% completeness. Compared to its free-living relatives, Ca. Ruthturnera sp. Tsphm01 genome is reduced, lacking components for chemotaxis, citric acid cycle and de novo biosynthesis of small molecules (e.g. amino acids and cofactors), indicating it is likely an obligate intracellular symbiont. Nevertheless, the symbiont retains complete genomic components of sulphur oxidation and assimilation of inorganic carbon, and these systems were highly and actively expressed. Moreover, the symbiont appears well-adapted to anoxic environment, including capable of anaerobic respiration (i.e. reductions of DMSO and nitrate) and possession of a low oxygen-adapted type of cytochrome c oxidase. Analysis of the host transcriptome revealed its metabolic complementarity to the incomplete metabolic pathways of the symbiont and the acquisition of nutrients from the symbiont via phagocytosis and exosome. <br/><img src='/images/MER_summary.jpg'>"
 collection: portfolio
 ---
 
