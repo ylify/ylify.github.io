@@ -19,7 +19,7 @@ Work experience
 * Nov 2021 - present: PostDoc researcher
   * Ocean University of China
   * Duties includes: Phylogenomics and chemosymbiosis
-  * Supervisor: Dr. Jin Sun
+  * Supervisor: Jin Sun / Ph.D.
 
   
 Skills
