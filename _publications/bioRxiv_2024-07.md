@@ -2,7 +2,7 @@
 title: "8th (preprint)  VEHoP: A Versatile, Easy-to-use, and Homology-based Phylogenomic pipeline accommodating diverse sequences"
 collection: publications
 category: manuscripts
-date: 2024-07-24
+date: 2024-12-02
 venue: 'bioRxiv'
 #slidesurl: 'http://ylify.github.io/files/Still waters run deep Large scale genome rearrangements in the evolution of morphologically conservative Polyplacophora.pdf'
 paperurl: 'http://ylify.github.io/files/VEHoP A Versatile, Easy-to-use, and Homology-based Phylogenomic pipeline accommodating diverse sequences.pdf'
