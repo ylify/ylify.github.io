@@ -1,5 +1,5 @@
 ---
-title: "7th (preprint) Extracellular chemosymbiont populations in a shallow-water thyasirid clam potentially shaped by priority effect"
+title: "7<sup>th</sup> (preprint) Extracellular chemosymbiont populations in a shallow-water thyasirid clam potentially shaped by priority effect"
 collection: publications
 category: manuscripts
 date: 2024-12-01
