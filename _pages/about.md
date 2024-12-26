@@ -9,4 +9,4 @@ redirect_from:
 
 I 'm currently a postdoc at Ocean University of China, focusing on **animal evolution**, including **Genomics**, **Phylogenomics**, and **Symbiosis**.
 
-<img src='/images/eLife_summary.jpg'>
+<img src='/images/pictures/_DSC1323.jpg'>
