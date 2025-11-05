@@ -16,9 +16,14 @@ Education
 
 Work experience
 ======
-* Nov 2021 - present: PostDoc researcher
+* Nov 2025 - present: PostDoc researcher
+  * Hong Kong Baptist University
+  * Duties include: phylogenomics and chemosymbiosis
+  * Supervisor: Jian-Wen Qiu / Ph.D.
+
+* Nov 2021 - Oct 2025: PostDoc researcher
   * Ocean University of China
-  * Duties includes: phylogenomics and chemosymbiosis
+  * Duties include: phylogenomics and chemosymbiosis
   * Supervisor: Jin Sun / Ph.D.
 
   
