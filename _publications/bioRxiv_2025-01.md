@@ -2,7 +2,7 @@
 title: "9<sup>th</sup> (preprint)  A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment"
 collection: publications
 category: manuscripts
-date: 2025-01-16
+date: 2026-05-01
 venue: 'bioRxiv'
 #slidesurl: 'http://ylify.github.io/files/Still waters run deep Large scale genome rearrangements in the evolution of morphologically conservative Polyplacophora.pdf'
 paperurl: 'http://ylify.github.io/files/A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment.pdf'
