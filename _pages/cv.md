@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Nov 2025 - present: PostDoc researcher
+* Nov 2025 - Nov 2026: PostDoc researcher
   * Hong Kong Baptist University
   * Duties include: phylogenomics and chemosymbiosis
   * Supervisor: Jian-Wen Qiu / Ph.D.
