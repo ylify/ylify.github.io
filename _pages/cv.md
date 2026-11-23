@@ -16,6 +16,11 @@ Education
 
 Work experience
 ======
+* Nov 2026 - present: Research Assistant Professor
+  * Hong Kong University of Science and Technology
+  * Duties include: phylogenomics and chemosymbiosis
+  * Supervisor: Pei-Yuan Qian / Ph.D.
+
 * Nov 2025 - Nov 2026: PostDoc researcher
   * Hong Kong Baptist University
   * Duties include: phylogenomics and chemosymbiosis
